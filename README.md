@@ -43,8 +43,16 @@ The average sales were highest at Type 3 Supermarkets followed by Type 1, Type 2
 <img width="642" alt="Screen Shot 2021-11-22 at 3 28 25 PM" src="https://user-images.githubusercontent.com/62402303/142937741-018981e2-1822-4ad7-8c55-323d17f281ac.png">
 This graph shows the relationship between average sales and outlet types for each item tracked.
 
+
+
 ## Sales Prediction Model
 
+Decision Tree Regressor Model - Optimized for R^2
+
+R^2 = 60%
+
+
+<img width="200" alt="Screen Shot 2021-11-22 at 3 42 24 PM" src="https://user-images.githubusercontent.com/62402303/142939367-18143251-902f-48ad-84b5-502470e5fad6.png">
 
 
 ## Acknowledgments
